@@ -1,0 +1,4 @@
+.terraform/
+.git/
+terraform.tfstate
+terraform.tfstate.backup
